@@ -1,0 +1,447 @@
+[
+  {
+    "id": 1,
+    "texto": "No se turbe vuestro corazón; creéis en Dios, creed también en mí.",
+    "autor": "Jesús (Juan 14:1)"
+  },
+  {
+    "id": 2,
+    "texto": "La fe es la garantía de lo que se espera, la certeza de lo que no se ve.",
+    "autor": "Hebreos 11:1"
+  },
+  {
+    "id": 3,
+    "texto": "Todo lo puedo en Cristo que me fortalece.",
+    "autor": "Filipenses 4:13"
+  },
+  {
+    "id": 4,
+    "texto": "El Señor es mi pastor, nada me faltará.",
+    "autor": "Salmos 23:1"
+  },
+  {
+    "id": 5,
+    "texto": "Amémonos unos a otros, porque el amor es de Dios.",
+    "autor": "1 Juan 4:7"
+  },
+  {
+    "id": 6,
+    "texto": "Para Dios nada es imposible.",
+    "autor": "Lucas 1:37"
+  },
+  {
+    "id": 7,
+    "texto": "Encomienda a Jehová tu camino, y confía en él; y él hará.",
+    "autor": "Salmos 37:5"
+  },
+  {
+    "id": 8,
+    "texto": "Jesús le dijo: Yo soy el camino, la verdad y la vida; nadie viene al Padre, sino por mí.",
+    "autor": "Juan 14:6"
+  },
+  {
+    "id": 9,
+    "texto": "El fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza.",
+    "autor": "Gálatas 5:22-23"
+  },
+  {
+    "id": 10,
+    "texto": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.",
+    "autor": "Isaías 41:10"
+  },
+  {
+    "id": 11,
+    "texto": "Más bienaventurado es dar que recibir.",
+    "autor": "Hechos 20:35"
+  },
+  {
+    "id": 12,
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+    "autor": "Juan 3:16"
+  },
+  {
+    "id": 13,
+    "texto": "La paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús.",
+    "autor": "Filipenses 4:7"
+  },
+  {
+    "id": 14,
+    "texto": "Donde esté tu tesoro, allí estará también tu corazón.",
+    "autor": "Mateo 6:21"
+  },
+  {
+    "id": 15,
+    "texto": "Buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+    "autor": "Mateo 6:33"
+  },
+  {
+    "id": 16,
+    "texto": "El que no ama no ha conocido a Dios, porque Dios es amor.",
+    "autor": "1 Juan 4:8"
+  },
+  {
+    "id": 17,
+    "texto": "En la multitud de palabras no falta pecado; mas el que refrena sus labios es prudente.",
+    "autor": "Proverbios 10:19"
+  },
+  {
+    "id": 18,
+    "texto": "Fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir.",
+    "autor": "1 Corintios 10:13"
+  },
+  {
+    "id": 19,
+    "texto": "Si Dios es por nosotros, ¿quién contra nosotros?",
+    "autor": "Romanos 8:31"
+  },
+  {
+    "id": 20,
+    "texto": "Por la gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios.",
+    "autor": "Efesios 2:8"
+  },
+  {
+    "id": 21,
+    "texto": "El gozo del Señor es vuestra fortaleza.",
+    "autor": "Nehemías 8:10"
+  },
+  {
+    "id": 22,
+    "texto": "Confía en Jehová de todo tu corazón, y no te apoyes en tu propia prudencia.",
+    "autor": "Proverbios 3:5"
+  },
+  {
+    "id": 23,
+    "texto": "En todo tiempo ama el amigo, y es como un hermano en tiempo de angustia.",
+    "autor": "Proverbios 17:17"
+  },
+  {
+    "id": 24,
+    "texto": "Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
+    "autor": "Isaías 40:31"
+  },
+  {
+    "id": 25,
+    "texto": "Bueno es Jehová para fortaleza en el día de la angustia, y conoce a los que en él confían.",
+    "autor": "Nahúm 1:7"
+  },
+  {
+    "id": 26,
+    "texto": "La justicia de Dios es aquella por la cual Él nos hace justos, mediante la fe en Jesucristo.",
+    "autor": "Martín Lutero (Comentario sobre Romanos)"
+  },
+  {
+    "id": 27,
+    "texto": "El corazón del hombre fue hecho para Dios, y no descansará hasta que descanse en Él.",
+    "autor": "Agustín de Hipona (Confesiones)"
+  },
+  {
+    "id": 28,
+    "texto": "Dios nos ama no porque somos valiosos, sino que somos valiosos porque Dios nos ama.",
+    "autor": "John Wesley (Sermones)"
+  },
+  {
+    "id": 29,
+    "texto": "La oración es el respiro del alma renovada.",
+    "autor": "Juan Calvino (Institución de la Religión Cristiana)"
+  },
+  {
+    "id": 30,
+    "texto": "La Escritura es la escuela del Espíritu Santo.",
+    "autor": "Juan Calvino (Institución de la Religión Cristiana)"
+  },
+  {
+    "id": 31,
+    "texto": "La fe es una confianza viva y atrevida en la gracia de Dios.",
+    "autor": "Martín Lutero (Prefacio a la Epístola a los Romanos)"
+  },
+  {
+    "id": 32,
+    "texto": "Cristo no es una idea, sino una persona viva.",
+    "autor": "Søren Kierkegaard (Ejercitación del Cristianismo)"
+  },
+  {
+    "id": 33,
+    "texto": "La cruz es la gracia de Dios en sufrimiento.",
+    "autor": "Dietrich Bonhoeffer (El Costo del Discipulado)"
+  },
+  {
+    "id": 34,
+    "texto": "La santificación es la obra de Dios de hacernos más como Jesús.",
+    "autor": "John Wesley (La Perfección Cristiana)"
+  },
+  {
+    "id": 35,
+    "texto": "La Biblia es la cuna donde yace el Cristo niño.",
+    "autor": "Martín Lutero (Table Talk)"
+  },
+  {
+    "id": 36,
+    "texto": "La verdadera fe no puede ser ociosa.",
+    "autor": "Martín Lutero (La Libertad del Cristiano)"
+  },
+  {
+    "id": 37,
+    "texto": "La predestación debe ser predicada, porque está en la Biblia.",
+    "autor": "John Wesley (Sermón sobre la Predestinación)"
+  },
+  {
+    "id": 38,
+    "texto": "La gracia es gratis, pero no barata.",
+    "autor": "Dietrich Bonhoeffer (El Costo del Discipulado)"
+  },
+  {
+    "id": 39,
+    "texto": "El evangelio es poder de Dios para salvación a todo aquel que cree.",
+    "autor": "Romanos 1:16"
+  },
+  {
+    "id": 40,
+    "texto": "Donde está el Espíritu del Señor, allí hay libertad.",
+    "autor": "2 Corintios 3:17"
+  },
+  {
+    "id": 41,
+    "texto": "El bautismo en el Espíritu Santo es para poder testificar.",
+    "autor": "Smith Wigglesworth (Sermones)"
+  },
+  {
+    "id": 42,
+    "texto": "Dios no llama a los capacitados, sino que capacita a los llamados.",
+    "autor": "A.W. Tozer (El conocimiento del Dios Santo)"
+  },
+  {
+    "id": 43,
+    "texto": "La oración es el medio que Dios ha designado para que recibamos bendición.",
+    "autor": "Charles Finney (Conferencias sobre Avivamiento)"
+  },
+  {
+    "id": 44,
+    "texto": "La fe ve lo invisible, cree lo increíble y recibe lo imposible.",
+    "autor": "Corrie ten Boom (El Refugio Secreto)"
+  },
+  {
+    "id": 45,
+    "texto": "El avivamiento comienza cuando nos rendimos completamente a Dios.",
+    "autor": "Evan Roberts (Diario del Avivamiento Galés)"
+  },
+  {
+    "id": 46,
+    "texto": "La gracia preveniente es la luz que alumbra a todo hombre.",
+    "autor": "John Wesley (Notas sobre el Nuevo Testamento)"
+  },
+  {
+    "id": 47,
+    "texto": "Dios nos amó primero, y por eso podemos amarle a Él.",
+    "autor": "Jacobus Arminius (Obras)"
+  },
+  {
+    "id": 48,
+    "texto": "La santificación es amor perfeccionado.",
+    "autor": "John Wesley (Sermón sobre la Perfección Cristiana)"
+  },
+  {
+    "id": 49,
+    "texto": "La gracia de Dios que trae salvación se ha manifestado a todos los hombres.",
+    "autor": "Tito 2:11"
+  },
+  {
+    "id": 50,
+    "texto": "El que quiera, tome del agua de la vida gratuitamente.",
+    "autor": "Apocalipsis 22:17"
+  },
+  {
+    "id": 51,
+    "texto": "La gloria de Dios es el hombre vivo, y la vida del hombre es la visión de Dios.",
+    "autor": "Ireneo de Lyon (Contra las Herejías)"
+  },
+  {
+    "id": 52,
+    "texto": "Sin el Espíritu Santo, Dios está lejos, Cristo permanece en el pasado.",
+    "autor": "John Stott (La Cruz de Cristo)"
+  },
+  {
+    "id": 53,
+    "texto": "La iglesia reformada siempre debe reformarse.",
+    "autor": "Karl Barth (Dogmática Eclesiástica)"
+  },
+  {
+    "id": 54,
+    "texto": "La oración es el primer acto de la fe obediente.",
+    "autor": "John Piper (Desiring God)"
+  },
+  {
+    "id": 55,
+    "texto": "Dios es más glorificado en nosotros cuando estamos más satisfechos en Él.",
+    "autor": "John Piper (Desiring God)"
+  },
+  {
+    "id": 56,
+    "texto": "La fe hace que las promesas de Dios se conviertan en cheques bancarios.",
+    "autor": "Charles Spurgeon (Sermones)"
+  },
+  {
+    "id": 57,
+    "texto": "Un poco de fe llevará tu alma al cielo, pero mucha fe llevará el cielo a tu alma.",
+    "autor": "Charles Spurgeon (Sermones)"
+  },
+  {
+    "id": 58,
+    "texto": "La oración es el respiro del alma regenerada.",
+    "autor": "Thomas Watson (El Cuerpo de Divinidad)"
+  },
+  {
+    "id": 59,
+    "texto": "La Biblia es la carta de amor de Dios para su pueblo.",
+    "autor": "John Bunyan (El Progreso del Peregrino)"
+  },
+  {
+    "id": 60,
+    "texto": "Cristo es todo para nosotros, o no es nada para nosotros.",
+    "autor": "Jonathan Edwards (La Libertad de la Voluntad)"
+  },
+  {
+    "id": 61,
+    "texto": "Si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo.",
+    "autor": "Romanos 10:9"
+  },
+  {
+    "id": 62,
+    "texto": "Dios no nos ama porque somos valiosos. Somos valiosos porque Dios nos ama.",
+    "autor": "John Stott (La Cruz de Cristo)"
+  },
+  {
+    "id": 63,
+    "texto": "La iglesia existe para misión como el fuego existe para quemar.",
+    "autor": "Michael Green (Evangelización en la Iglesia Primitiva)"
+  },
+  {
+    "id": 64,
+    "texto": "La adoración es la estrategia de Dios para cambiar vidas.",
+    "autor": "John Wimber (El Reino de Dios)"
+  },
+  {
+    "id": 65,
+    "texto": "La evangelización es un mendigo diciendo a otro mendigo dónde hallar pan.",
+    "autor": "D.T. Niles (Sobre Evangelización)"
+  },
+  {
+    "id": 66,
+    "texto": "La cruz es el centro de la historia, el punto donde el tiempo toca la eternidad.",
+    "autor": "John Stott (La Cruz de Cristo)"
+  },
+  {
+    "id": 67,
+    "texto": "El avivamiento es Dios obrando fuera de lo común.",
+    "autor": "Martyn Lloyd-Jones (Aventuras en la Fe)"
+  },
+  {
+    "id": 68,
+    "texto": "La santidad no es la manera de llegar a Cristo, sino la manera de andar en Cristo.",
+    "autor": "J.C. Ryle (Santidad)"
+  },
+  {
+    "id": 69,
+    "texto": "La oración secreta es el secreto de la oración contestada.",
+    "autor": "Leonard Ravenhill (Por qué el Avivamiento Tarda)"
+  },
+  {
+    "id": 70,
+    "texto": "Un hombre con una experiencia nunca está a merced de un hombre con un argumento.",
+    "autor": "Smith Wigglesworth (Sermones)"
+  },
+  {
+    "id": 71,
+    "texto": "Lee la Biblia para ser sabio, créela para ser salvo, y practícala para ser santo.",
+    "autor": "Anónimo (Proverbio Cristiano)"
+  },
+  {
+    "id": 72,
+    "texto": "La iglesia es la madre de todos los creyentes.",
+    "autor": "Juan Calvino (Institución de la Religión Cristiana)"
+  },
+  {
+    "id": 73,
+    "texto": "La Palabra de Dios es la regla de toda verdad y de toda religión.",
+    "autor": "Ulrico Zuinglio (Comentarios)"
+  },
+  {
+    "id": 74,
+    "texto": "Cristo es el profeta, sacerdote y rey de su iglesia.",
+    "autor": "Juan Calvino (Institución de la Religión Cristiana)"
+  },
+  {
+    "id": 75,
+    "texto": "La fe justifica, pero la fe que justifica no está sola.",
+    "autor": "John Wesley (Sermones)"
+  },
+  {
+    "id": 76,
+    "texto": "El arrepentimiento es el segundo don de Dios.",
+    "autor": "Martín Lutero (Las 95 Tesis)"
+  },
+  {
+    "id": 77,
+    "texto": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.",
+    "autor": "1 Pedro 5:7"
+  },
+  {
+    "id": 78,
+    "texto": "El nombre de Jehová es torre fuerte; a ella corre el justo, y está seguro.",
+    "autor": "Proverbios 18:10"
+  },
+  {
+    "id": 79,
+    "texto": "En todo dad gracias; porque esta es la voluntad de Dios para con vosotros en Cristo Jesús.",
+    "autor": "1 Tesalonicenses 5:18"
+  },
+  {
+    "id": 80,
+    "texto": "La santidad es felicidad perfecta.",
+    "autor": "John Wesley (Cartas)"
+  },
+  {
+    "id": 81,
+    "texto": "El avivamiento es la iglesia volviendo a la normalidad bíblica.",
+    "autor": "Vance Havner (Sermones)"
+  },
+  {
+    "id": 82,
+    "texto": "La oración es el despertar del alma hacia Dios.",
+    "autor": "E.M. Bounds (El Poder a través de la Oración)"
+  },
+  {
+    "id": 83,
+    "texto": "La fe no es creer a pesar de la evidencia, es obedecer a pesar de las consecuencias.",
+    "autor": "A.W. Tozer (La Búsqueda de Dios)"
+  },
+  {
+    "id": 84,
+    "texto": "Dios está buscando vasos vacíos para llenar, no vasos llenos para vaciar.",
+    "autor": "Watchman Nee (La Vida Cristiana Normal)"
+  },
+  {
+    "id": 85,
+    "texto": "Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.",
+    "autor": "2 Timoteo 1:7"
+  },
+  {
+    "id": 86,
+    "texto": "Antes, santificad a Dios el Señor en vuestros corazones, y estad siempre preparados para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros.",
+    "autor": "1 Pedro 3:15"
+  },
+  {
+    "id": 87,
+    "texto": "La iglesia no es un museo para santos, sino un hospital para pecadores.",
+    "autor": "Abigail Van Buren (Citando Proverbio Cristiano)"
+  },
+  {
+    "id": 88,
+    "texto": "La gracia de Dios es suficiente para todo pecador y para todo pecado.",
+    "autor": "Charles Spurgeon (Sermones)"
+  },
+  {
+    "id": 89,
+    "texto": "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo.",
+    "autor": "Apocalipsis 3:20"
+  }
+]
